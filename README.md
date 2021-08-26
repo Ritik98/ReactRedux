@@ -4,7 +4,7 @@ It is a sample project where we can increment the value and decrement the value 
 
 ## Github link 
 
-https://ritik98.github.io/ReactAddUser/
+https://ritik98.github.io/ReactRedux/
 
 
 ## Getting Started with Create React App
